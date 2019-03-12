@@ -1,0 +1,9 @@
+//Numeros pares
+entero i,x
+Inicio
+	Escriba "Impresion de numeros pares"
+	Para i<-1 hasta 10 haga
+	i<-i+1
+	escriba i
+	fin para
+Fin
