@@ -1,0 +1,11 @@
+//Edad mayor o menor
+Entero edad	
+Inicio	
+	Escriba "Por favor digita la edad"
+	Lea edad
+	Si edad<=17 entonces
+	Escriba "Soy menor de edad"
+	Sino 
+	Escriba "Soy mayor de edad"
+	Fin Si
+Fin 
